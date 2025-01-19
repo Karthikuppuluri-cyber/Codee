@@ -6,8 +6,8 @@ import { Toaster } from "@/components/ui/sonner";
 
 
 export const metadata = {
-  title: "Codiee-Full Stack Web App Development",
-  description: "Codiee Full stack Dev",
+  title: "Codee-AI Coder",
+  description: "Codee Full stack Dev",
 };
 
 export default function RootLayout({ children }) {
