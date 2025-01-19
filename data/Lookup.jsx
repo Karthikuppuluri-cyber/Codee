@@ -2,7 +2,7 @@ import dedent from "dedent";
 
 export default {
   SUGGSTIONS: ['Create ToDo App in React', 'Create Budget Track App', 'Create Gym Managment Portal Dashboard', 'Create Quizz App On History', 'Create Login Signup Screen'],
-  HERO_HEADING: 'Build anything with Codiee',
+  HERO_HEADING: 'Build anything with Codee',
   HERO_DESC: 'Prompt, run, edit, and deploy full-stack web apps.',
   INPUT_PLACEHOLDER: 'Prompt for any full stack application code',
   SIGNIN_HEADING: 'Continue With Codee',
