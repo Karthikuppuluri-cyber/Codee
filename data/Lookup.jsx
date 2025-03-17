@@ -1,11 +1,11 @@
 import dedent from "dedent";
 
 export default {
-  SUGGSTIONS: ['Create ToDo App in React', 'Create Budget Track App', 'Create Gym Managment Portal Dashboard', 'Create Quizz App On History', 'Create Login Signup Screen'],
-  HERO_HEADING: 'Build anything with Codee',
+  SUGGSTIONS: ['Create ToDo App in React', 'Create Budget Track App', 'Create app like Spotify', 'Create Quizz App On History', 'Create Login Signup Screen'],
+  HERO_HEADING: 'Build anything with DaaP AI Coder',
   HERO_DESC: 'Prompt, run, edit, and deploy full-stack web apps.',
   INPUT_PLACEHOLDER: 'Prompt for any full stack application code',
-  SIGNIN_HEADING: 'Continue With Codee',
+  SIGNIN_HEADING: 'Continue With DaaP AI Coder',
   SIGNIN_SUBHEADING: 'To use Codee you must log into an existing account or create one.',
   SIGNIn_AGREEMENT_TEXT: 'By using Codiee, you agree to the collection of usage data for analytics.',
 
